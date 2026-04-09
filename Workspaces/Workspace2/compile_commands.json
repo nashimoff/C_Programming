@@ -3,6 +3,10 @@
 		"directory":	"E:\\COURSES\\C_Programming\\Workspaces\\Workspace2\\DefaultProjectCprogramming",
 		"command":	"E:/cygwin64/bin/gcc.exe -c E:\\COURSES\\C_Programming\\Workspaces\\Workspace2\\DefaultProjectCprogramming\\main.c -o E:\\COURSES\\C_Programming\\Workspaces\\Workspace2\\DefaultProjectCprogramming\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
+		"file":	"E:\\COURSES\\C_Programming\\Workspaces\\Workspace2\\OurFirstProgram\\main.c",
+		"directory":	"E:\\COURSES\\C_Programming\\Workspaces\\Workspace2\\OurFirstProgram",
+		"command":	"E:/cygwin64/bin/gcc.exe -c E:\\COURSES\\C_Programming\\Workspaces\\Workspace2\\OurFirstProgram\\main.c -o E:\\COURSES\\C_Programming\\Workspaces\\Workspace2\\OurFirstProgram\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
 		"file":	"E:\\COURSES\\C_Programming\\Workspaces\\Workspace2\\Project1\\main.c",
 		"directory":	"E:\\COURSES\\C_Programming\\Workspaces\\Workspace2\\Project1",
 		"command":	"E:/cygwin64/bin/gcc.exe -c E:\\COURSES\\C_Programming\\Workspaces\\Workspace2\\Project1\\main.c -o E:\\COURSES\\C_Programming\\Workspaces\\Workspace2\\Project1\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"

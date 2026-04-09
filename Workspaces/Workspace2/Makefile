@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "==========Building project:[ DefaultProjectCprogramming - Debug ]=========="
-	@cd "DefaultProjectCprogramming" && "$(MAKE)" -f  "DefaultProjectCprogramming.mk"
+	@echo "==========Building project:[ OurFirstProgram - Debug ]=========="
+	@cd "OurFirstProgram" && "$(MAKE)" -f  "OurFirstProgram.mk"
 clean:
-	@echo "==========Cleaning project:[ DefaultProjectCprogramming - Debug ]----------"
-	@cd "DefaultProjectCprogramming" && "$(MAKE)" -f  "DefaultProjectCprogramming.mk" clean
+	@echo "==========Cleaning project:[ OurFirstProgram - Debug ]----------"
+	@cd "OurFirstProgram" && "$(MAKE)" -f  "OurFirstProgram.mk" clean
