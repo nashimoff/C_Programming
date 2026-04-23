@@ -1,0 +1,7 @@
+[
+  {
+    "command": "D:/msys64/ucrt64/bin/gcc.exe -c D:\\COURSES\\C_Programming\\Workspace\\Test\\main.c -o D:\\COURSES\\C_Programming\\Workspace\\Test\\main.c.o -target x86_64-w64-mingw32 -ID:\\msys64\\ucrt64\\include\\c++\\15.2.0 -ID:\\msys64\\ucrt64\\include\\c++\\15.2.0\\x86_64-w64-mingw32 -ID:\\msys64\\ucrt64\\include\\c++\\15.2.0\\backward -ID:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include -ID:\\msys64\\ucrt64\\include -ID:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.2.0\\include-fixed -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall",
+    "directory": "D:\\COURSES\\C_Programming\\Workspace\\Test",
+    "file": "D:\\COURSES\\C_Programming\\Workspace\\Test\\main.c"
+  }
+]
