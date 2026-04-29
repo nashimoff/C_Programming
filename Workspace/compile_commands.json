@@ -1,5 +1,0 @@
-[{
-		"file":	"E:\\COURSES\\C_programming_C_plus_plus\\C_Programming\\Workspace\\TestProject\\main.c",
-		"directory":	"E:\\COURSES\\C_programming_C_plus_plus\\C_Programming\\Workspace\\TestProject",
-		"command":	"E:/cygwin64/bin/gcc.exe -c E:\\COURSES\\C_programming_C_plus_plus\\C_Programming\\Workspace\\TestProject\\main.c -o E:\\COURSES\\C_programming_C_plus_plus\\C_Programming\\Workspace\\TestProject\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
-	}]
